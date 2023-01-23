@@ -1,7 +1,7 @@
 # gitlet-java
 A trivial gitlet implementation with the current features:
 Init
-Add \foofile\foo
-Commit \foomessage\foo
+Add <file>
+Commit -m <message>
 Log
-Checkout \foocommitid\foo \foofile\foo
+Checkout <commitid> <file>
